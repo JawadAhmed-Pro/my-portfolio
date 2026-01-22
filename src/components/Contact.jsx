@@ -50,13 +50,13 @@ export default function Contact() {
                         </p>
 
                         <div className="space-y-6">
-                            <a href="mailto:beyalpha88@gmail.com" className="flex items-center space-x-4 p-4 rounded-xl bg-white dark:bg-slate-800 border border-gray-100 dark:border-gray-700 hover:border-primary/50 transition-colors group">
+                            <a href="mailto:ja358288@gmail.com" className="flex items-center space-x-4 p-4 rounded-xl bg-white dark:bg-slate-800 border border-gray-100 dark:border-gray-700 hover:border-primary/50 transition-colors group">
                                 <div className="p-3 bg-blue-100 text-blue-600 dark:bg-blue-900/30 rounded-lg group-hover:scale-110 transition-transform">
                                     <Mail size={24} />
                                 </div>
                                 <div>
                                     <p className="text-sm text-gray-500 font-medium">Email Me</p>
-                                    <p className="text-base font-semibold text-secondary dark:text-white">beyalpha88@gmail.com</p>
+                                    <p className="text-base font-semibold text-secondary dark:text-white">ja358288@gmail.com</p>
                                 </div>
                             </a>
 

@@ -70,13 +70,13 @@ export default function Contact() {
                                 </div>
                             </a>
 
-                            <a href="https://calendly.com/jawadahmed" className="flex items-center space-x-4 p-4 rounded-xl bg-white dark:bg-slate-800 border border-gray-100 dark:border-gray-700 hover:border-primary/50 transition-colors group">
+                            <a href="https://calendly.com/ja358288" className="flex items-center space-x-4 p-4 rounded-xl bg-white dark:bg-slate-800 border border-gray-100 dark:border-gray-700 hover:border-primary/50 transition-colors group">
                                 <div className="p-3 bg-purple-100 text-purple-600 dark:bg-purple-900/30 rounded-lg group-hover:scale-110 transition-transform">
                                     <Calendar size={24} />
                                 </div>
                                 <div>
                                     <p className="text-sm text-gray-500 font-medium">Schedule a Call</p>
-                                    <p className="text-base font-semibold text-secondary dark:text-white">calendly.com/jawadahmed</p>
+                                    <p className="text-base font-semibold text-secondary dark:text-white">calendly.com/ja358288</p>
                                 </div>
                             </a>
                         </div>
